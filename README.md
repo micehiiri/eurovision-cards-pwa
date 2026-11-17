@@ -1,6 +1,6 @@
 # Euroviisujen keskustelukortit – julkinen PWA-demo
 
-Tämä versio sisältää vain yleistä, demoamiseksi kirjoitettua Euroviisu-aiheista sisältöä. Se ei sisällä koulutusvientihankkeen aineistoa.
+Tämä versio sisältää vain yleistä, demoamiseksi kirjoitettua Euroviisu-aiheista sisältöä.
 
 ## GitHub Pages
 Lataa nämä tiedostot julkiseen repositorioon juureen ja ota käyttöön Settings > Pages > Deploy from a branch > main > /(root).
